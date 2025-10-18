@@ -32,3 +32,5 @@ For MySQL databases, if **phpMyAdmin Single Sign On** is enabled, hovering a dat
 
 1. Hover over the database you want to delete.
 2. Click the <i class="fas fa-fw fa-trash"><span class="visually-hidden">delete</span></i> icon on the right of the database’s name. Both the database user and the database will get deleted.
+
+<!-- Auto-update: 2025-10-18T14:36:34.673250 -->
